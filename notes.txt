@@ -7,3 +7,5 @@
   - --amend -m
   - --amend --only -m
   - --amend --no-edit
+
+  Remember to practice Git.
