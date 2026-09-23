@@ -1,0 +1,9 @@
+2.9 Undoing and Rewriting Changes
+
+- git restore
+- git restore --staged
+- git rm --cached
+- git commit --amend
+  - --amend -m
+  - --amend --only -m
+  - --amend --no-edit
