@@ -8,4 +8,4 @@
   - --amend --only -m
   - --amend --no-edit
 
- 
+ rebase practice
