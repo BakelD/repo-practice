@@ -9,3 +9,4 @@
   - --amend --no-edit
 
  rebase practice
+ merge squash practice
