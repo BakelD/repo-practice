@@ -12,3 +12,4 @@
  merge squash practice
 
 GitHub fetch practice
+push | fetch | pull
