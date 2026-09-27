@@ -10,3 +10,5 @@
 
  rebase practice
  merge squash practice
+
+GitHub fetch practice
